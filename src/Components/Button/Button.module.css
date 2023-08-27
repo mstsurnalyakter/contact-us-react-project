@@ -1,0 +1,31 @@
+
+.btn1{
+    padding: 18px 10px;
+    background-color: #000000;
+    color: #f5f5f5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    min-width: 220px;
+    height: 44px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+.btn2{
+    padding: 18px 10px;
+    color: #000000;
+    background-color:white;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    min-width: 220px;
+    height: 44px;
+    border-radius: 5px;
+    width: 100%;
+    cursor: pointer;
+}
